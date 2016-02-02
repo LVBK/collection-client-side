@@ -1,6 +1,6 @@
 {
   "name": "collection-client-side",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "custom collections like  meteor package for other client ",
   "main": "dist/collection-client-side.bundle.js",
   "scripts": {

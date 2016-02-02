@@ -24,7 +24,7 @@
     }).call(this);
     /* Exports */
     if (typeof Package === 'undefined') Package = {};
-    Package['gymapp:collection'] = {
+    Package['gymapp-collection'] = {
         Gym_info: Gym_info
     };
 
