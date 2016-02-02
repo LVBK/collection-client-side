@@ -1,0 +1,21 @@
+{
+  "name": "collection-client-side",
+  "version": "1.0.0",
+  "description": "custom collections like  meteor package for other client ",
+  "main": "dist/collection-client-side.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LVBK/collection-client-side/"
+  },
+  "keywords": [
+    "meteor"
+  ],
+  "author": "LVBK <khanhlvb@ows.vn>",
+  "license": "ISC",
+  "dependencies" :{
+    "ows-meteor-client-side": "^1.0.0"
+  }
+}
